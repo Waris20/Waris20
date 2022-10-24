@@ -1,4 +1,4 @@
-# BruteX
+# Waris20
 BruteX is A bruteForce attacking tool
 ### Features Of BruteW:
 + You can bruteforce attack on your victim's Instagram, Facebook and Email ID with 100 password/second you can add your own custom password list and this tool also has password list, so If you don't have your own password list then it's ok don't worry you can use auto attack function (In this function you don't need your own password list).
@@ -24,7 +24,7 @@ BruteX is A bruteForce attacking tool
 + ```apt update```
 + ```apt upgrade```
 + ```apt install git -y```
-+ ```https://github.com/Waris20/Waris20``
++ ```https://github.com/Waris20/Waris20```
 + ```cd BruteX```
 + ```chmod +x *```
 + ```bash setup.sh``` or ```./setup.sh```
@@ -38,13 +38,13 @@ apt update && apt upgrade && apt install git -y && git clone https://github.com/
 
 ## Screenshot
 ### Main menu
-![photo](https://raw.githubusercontent.com/Waris20/BruteX/main/.img/main_menu.jpg)
+![photo](https://raw.githubusercontent.com/Waris20/Waris/main/.img/main_menu.jpg)
 
 ### Input passwordlist
-![photo](https://raw.githubusercontent.com/Waris20/BruteX/main/.img/pass.jpg)
+![photo](https://raw.githubusercontent.com/Waris20/Waris20/main/.img/pass.jpg)
 
 ### Setup
-![photo](https://raw.githubusercontent.com/Waris20/BruteX/main/.img/setup.jpg)
+![photo](https://raw.githubusercontent.com/Waris20/Waris20/main/.img/setup.jpg)
 
 ### Attacking
 ![photo](https://raw.githubusercontent.com/Waris20/BruteX/main/.img/attacking.jpg)
